@@ -1,0 +1,16 @@
+.error {
+    color: red;
+    font-size: 90%;
+    font-style: italic;
+}
+.navbar-nav {
+    flex-grow: 1;
+}
+.profile {
+    flex-grow: 1;
+    text-align: right;
+}
+.dropdown-menu-profile {
+    right: 0;
+    left: auto;
+}

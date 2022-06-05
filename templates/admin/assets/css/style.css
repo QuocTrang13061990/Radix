@@ -1,0 +1,12 @@
+.error{
+    color: red;
+    font-size: 95%;
+}
+td.service-name, td.page-title {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0;
+}
+.gallery-image .gallery-item {
+    margin-bottom: 10px;
+}
